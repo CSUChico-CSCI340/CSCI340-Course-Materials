@@ -1,13 +1,14 @@
 <table border="0">
   <tbody>
     <tr>
-      <td style="vertical-align: top; font-weight: bold;" width="150">Week<br>
+      <td style="vertical-align: top; font-weight: bold;" width="150">
+		<strong>Week</strong><br>
       </td>
-      <td style="vertical-align: top; font-weight: bold;" width="400">
-        Required Readings<br>
+      <td style="vertical-align: top; font-weight: bold;" >
+        <strong>Required Readings</strong><br>
       </td>
-      <td style="vertical-align: top; font-weight: bold;">
-        Optional Readings<br>
+      <td style="vertical-align: top; font-weight: bold;" width="300">
+        <strong>Optional Readings</strong><br>
       </td>
     </tr>
     <tr>
