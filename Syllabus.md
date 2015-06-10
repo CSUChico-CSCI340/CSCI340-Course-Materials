@@ -138,11 +138,11 @@ The first time you cheat, you will get a 0 on the test or assignment. The second
 
 >Required Consultation: If I suspect that you did not do your own work (e.g. someone else wrote your programs), you are required to meet with me and discuss your program. During this meeting I will ask you simple questions about your program. If you don't know how your program works I will assume you have cheated. In the event that you refuse to meet with me I will:
 
->assume you cheated
+>+ 	assume you cheated
 
->give you a zero
+>+ 	give you a zero
 
->report you to Student Judicial Affairs.
+>+ 	report you to Student Judicial Affairs.
 
 
 >I reserve the right to catch cheaters after the end of the semester. Just because a cheater makes it to the end of the semester without being caught does not mean he or she has gotten away with it. Since I keep assignments it is possible for me to catch cheaters after the fact. For example, assume your friend George gives you his old program and you turn it in. Next semester George might give his program to someone else and I could catch it. Now I will look through all old programs to see who else George has given his program to. One of my advantages is that I can use programs to look for all instances of an assignment over the past several years. And while I might not catch everyone, I am always amazed at the people I do catch.
