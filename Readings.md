@@ -3,8 +3,6 @@
     <tr>
       <td style="vertical-align: top; font-weight: bold;" width="150">Week<br>
       </td>
-      <td style="vertical-align: top; font-weight: bold;" width="200">Date<br>
-      </td>
       <td style="vertical-align: top; font-weight: bold;" width="350">
         Required Readings<br>
       </td>
@@ -14,7 +12,6 @@
     </tr>
     <tr>
       <td valign=top>Week 1</td>
-      <td valign=top>January 19, 2015</td>
       <td>Chapter 1 of OSC - Familiarize yourself with:
           <ul style="margin-left: 0.25in">
             <li>The overview of this course</li>
@@ -27,7 +24,6 @@
 
     <tr>
       <td valign=top>Week 2</td>
-      <td valign=top>January 26, 2015</td>
       <td>Chapter 2 of OSC (excluding section 2.8) - Familiarize yourself with
           <ul style="margin-left: 0.25in">
             <li>Structure of OS</li>
@@ -39,7 +35,6 @@
     </tr>
     <tr>
       <td valign=top>Week 3</td>
-      <td valign=top>February 2, 2015</td>
       <td valign=top>
           <p>(Similar to Ch 8 Optional Systems book material)</p>
           <ul style="margin-left: 0.25in">
@@ -64,7 +59,6 @@
     </tr>
     <tr>
       <td valign=top>Week 4</td>
-      <td valign=top>February 9, 2015</td>
       <td valign=top>
           Chapter 3 of OSC (3.4+):
             <ul style="margin-left: 0.25in">
@@ -78,68 +72,56 @@
     </tr>
     <tr>
       <td>Week 5</td>
-      <td>February 16, 2015</td>
       <td valign=top>Chapter 4 of OSC</td>
 
     </tr>
     <tr>
       <td>Week 6</td>
-      <td>February 23, 2015</td>
       <td valign=top>Chapter 5 of OSC</td>
 
     </tr>
    <tr>
       <td>Week 7</td>
-      <td>March 2, 2015</td>
       <td valign=top>Chapter 7 of OSC</td>
 
     </tr>
     <tr>
       <td>Week 8</td>
-      <td>March 9, 2015</td>
       <td valign=top>No Reading - Review Midterm</td>
 
     </tr>
     <tr>
       <td>Spring Break</td>
-      <td>March 16, 2015</td>
       <td valign=top>No Readings</td>
     </tr>
 
     <tr>
       <td>Week 9</td>
-      <td>March 23, 2015</td>
       <td valign=top>Chapter 6 of OSC</td>
 
     </tr>
     <tr>
       <td>Week 10</td>
-      <td>March 30, 2015</td>
       <td valign=top>Chapter 8 of OSC</td>
     </tr>
     <tr>
       <td>Week 11</td>
-      <td>April 6, 2015</td>
       <td valign=top>Chapter 10 of OSC</td>
     </tr>
     <tr>
       <td>Week 12</td>
-      <td>April 13, 2015</td>
       <td valign=top>Chapter 9 of OSC</td>
     </tr>
     <tr>
       <td>Week 13</td>
-      <td>April 20, 2015</td>
       <td>Chapter 11 of OSC</td>
     </tr>
     <tr>
       <td>Week 14</td>
-      <td>April 27, 2015</td>
       <td valign=top>Chapter 12 of OSC</td>
     </tr>
     <tr>
       <td>Week 15</td>
-      <td>May 4, 2015</td>
       <td>Review</td>
     </tr>
   </tbody>
