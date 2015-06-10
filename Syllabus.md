@@ -59,13 +59,13 @@ I will routinely post the grading spreadsheet (Will be in google drive folder). 
 
 ###Grade Category Percentages:
 
-+Exams 40% of course grade (1 midterm and a final)
++ Exams 40% of course grade (1 midterm and a final)
 
-+Programming Projects 55% of course grade
++ Programming Projects 55% of course grade
 
-+Practice Problems 5% (If non exist then will become part of Programming Projects percentage)
++ Practice Problems 5% (If non exist then will become part of Programming Projects percentage)
 
-+Lecture & Lab Attendance can improve/lower your grade (see above)
++ Lecture & Lab Attendance can improve/lower your grade (see above)
 
 ###Grading Meetings
 
