@@ -3,7 +3,7 @@
     <tr>
       <td style="vertical-align: top; font-weight: bold;" width="150">Week<br>
       </td>
-      <td style="vertical-align: top; font-weight: bold;" width="350">
+      <td style="vertical-align: top; font-weight: bold;" width="400">
         Required Readings<br>
       </td>
       <td style="vertical-align: top; font-weight: bold;">
