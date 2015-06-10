@@ -17,15 +17,15 @@ Grade of C- or better in CSCI 311.
 ### Hours
    3 hours discussion, 2 hours activity.
 
-## Syllabus
+## [Syllabus](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Syllabus.md "CSCI340 Syllabus")
 
 This can be found in the [Syllabus.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Syllabus.md "CSCI340 Syllabus") file
 
-## Grader(s)
+## [Grader(s)](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/TA.md "CSCI340 Graders")
 
 Details on the grader(s) for the course can be found on the [TA.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/TA.md "CSCI340 Graders") page.
 
-## Readings
+## [Readings](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Readings.md "CSCI340 Readings")
 
 Details for the recommended readings for the course can be found on the [Readings.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Readings.md "CSCI340 Readings") page
 
@@ -33,6 +33,6 @@ Details for the recommended readings for the course can be found on the [Reading
 
 Due dates and assignment details can be found on the [Assignments.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Assignments.md "CSCI340 Assignments") page
 
-##Links
+##[Links](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Links.md "CSCI340 Links")
 
 Useful links for the course or in general can be found in the [Links.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Links.md "CSCI340 Links") page
