@@ -138,9 +138,9 @@ The first time you cheat, you will get a 0 on the test or assignment. The second
 
 >Required Consultation: If I suspect that you did not do your own work (e.g. someone else wrote your programs), you are required to meet with me and discuss your program. During this meeting I will ask you simple questions about your program. If you don't know how your program works I will assume you have cheated. In the event that you refuse to meet with me I will:
 
-    >assume you cheated
-    give you a zero
-    report you to Student Judicial Affairs.
+>assume you cheated
+>give you a zero
+>report you to Student Judicial Affairs.
 
 
 
