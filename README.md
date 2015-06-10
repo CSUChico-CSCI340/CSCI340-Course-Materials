@@ -29,7 +29,7 @@ Details on the grader(s) for the course can be found on the [TA.md](https://gith
 
 Details for the recommended readings for the course can be found on the [Readings.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Readings.md "CSCI340 Readings") page
 
-##Assignments
+##[Assignments](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Assignments.md "CSCI340 Assignments")
 
 Due dates and assignment details can be found on the [Assignments.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Assignments.md "CSCI340 Assignments") page
 
