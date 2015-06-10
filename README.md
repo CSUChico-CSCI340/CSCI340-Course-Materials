@@ -10,7 +10,7 @@ The course catalogue describes this course as follows:
 
    Operating system fundamentals, including history, process and thread management, concurrency with semaphores and monitors, deadlocks, storage management, file systems, I/O, and distributed systems.
 
-   3 hours discussion, 2 hours activity. 
+   3 hours discussion, 2 hours activity.
 
 ## Syllabus
 
