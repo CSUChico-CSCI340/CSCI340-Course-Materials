@@ -19,6 +19,6 @@ Grade of C- or better in CSCI 311.
 
 ## Syllabus
 
-This can be found in the [Syllabus.md](https://raw.githubusercontent.com/CSUChico-CSCI340/CSCI340-Course-Materials/master/Syllabus.md "CSCI340 Syllabus") file
+This can be found in the [Syllabus.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Syllabus.md "CSCI340 Syllabus") file
 
 ##
