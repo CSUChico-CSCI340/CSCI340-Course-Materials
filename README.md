@@ -24,3 +24,7 @@ This can be found in the [Syllabus.md](https://github.com/CSUChico-CSCI340/CSCI3
 ## Grader(s)
 
 Details on the grader(s) for the course can be found on the [TA.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/TA.md "CSCI340 Graders") page.
+
+## Readings
+
+Details for the recommended readings for the course can be found on the [Readings.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Readings.md "CSCI340 Readings") page
