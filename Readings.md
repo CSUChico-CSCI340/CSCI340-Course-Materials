@@ -130,24 +130,24 @@
     </tr>
     <tr>
       <td>Week 9</td>
-      <td valign=top>No Readings</td>
+      <td valign=top>Concurrency</td>
     </tr>
 
     <tr>
       <td>Week 10</td>
-      <td valign=top>Chapter 6 of OSC</td>
+      <td valign=top>Concurrency</td>
     </tr>
     <tr>
       <td>Week 11</td>
-      <td valign=top>Chapter 8 of OSC</td>
+      <td valign=top>Concurrency</td>
     </tr>
     <tr>
       <td>Week 12</td>
-      <td valign=top>Chapter 10 of OSC</td>
+      <td valign=top>Finish Concurrency start Persistent Storage</td>
     </tr>
     <tr>
       <td>Week 13</td>
-      <td valign=top>Chapter 9 of OSC</td>
+      <td valign=top>Persistent Storage</td>
     </tr>
     <tr>
       <td>Week 14</td>
@@ -155,7 +155,7 @@
     </tr>
     <tr>
       <td>Week 15</td>
-      <td valign=top>Chapter 12 of OSC</td>
+      <td valign=top>Finish Persistent Storage</td>
     </tr>
     <tr>
       <td>Week 16</td>
