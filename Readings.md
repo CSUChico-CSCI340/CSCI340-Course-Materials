@@ -131,35 +131,43 @@
     <tr>
       <td>Week 9</td>
       <td valign=top>Concurrency</td>
+      <td valign=top>None</td>
     </tr>
 
     <tr>
       <td>Week 10</td>
       <td valign=top>Concurrency</td>
+      <td valign=top>None</td>
     </tr>
     <tr>
       <td>Week 11</td>
       <td valign=top>Concurrency</td>
+      <td valign=top>None</td>
     </tr>
     <tr>
       <td>Week 12</td>
       <td valign=top>Finish Concurrency start Persistent Storage</td>
+      <td valign=top>None</td>
     </tr>
     <tr>
       <td>Week 13</td>
       <td valign=top>Persistent Storage</td>
+      <td valign=top>None</td>
     </tr>
     <tr>
       <td>Week 14</td>
       <td>Thanksgiving Break -- No Readings</td>
+      <td valign=top>None</td>
     </tr>
     <tr>
       <td>Week 15</td>
       <td valign=top>Finish Persistent Storage</td>
+      <td valign=top>None</td>
     </tr>
     <tr>
       <td>Week 16</td>
       <td>No Readings - Review for Final</td>
+      <td valign=top>None</td>
     </tr>
   </tbody>
 </table>
