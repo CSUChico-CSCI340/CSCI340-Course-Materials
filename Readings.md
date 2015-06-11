@@ -129,38 +129,37 @@
       <td valign=top>None</td>
     </tr>
     <tr>
-      <td>Spring Break</td>
+      <td>Week 9</td>
       <td valign=top>No Readings</td>
     </tr>
 
     <tr>
-      <td>Week 9</td>
-      <td valign=top>Chapter 6 of OSC</td>
-
-    </tr>
-    <tr>
       <td>Week 10</td>
-      <td valign=top>Chapter 8 of OSC</td>
+      <td valign=top>Chapter 6 of OSC</td>
     </tr>
     <tr>
       <td>Week 11</td>
-      <td valign=top>Chapter 10 of OSC</td>
+      <td valign=top>Chapter 8 of OSC</td>
     </tr>
     <tr>
       <td>Week 12</td>
-      <td valign=top>Chapter 9 of OSC</td>
+      <td valign=top>Chapter 10 of OSC</td>
     </tr>
     <tr>
       <td>Week 13</td>
-      <td>Chapter 11 of OSC</td>
+      <td valign=top>Chapter 9 of OSC</td>
     </tr>
     <tr>
       <td>Week 14</td>
-      <td valign=top>Chapter 12 of OSC</td>
+      <td>Thanksgiving Break -- No Readings</td>
     </tr>
     <tr>
       <td>Week 15</td>
-      <td>Review</td>
+      <td valign=top>Chapter 12 of OSC</td>
+    </tr>
+    <tr>
+      <td>Week 16</td>
+      <td>No Readings - Review for Final</td>
     </tr>
   </tbody>
 </table>
