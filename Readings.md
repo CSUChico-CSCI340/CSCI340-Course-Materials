@@ -13,14 +13,16 @@
     </tr>
     <tr>
       <td valign=top>Week 1</td>
-      <td>Chapter 1 of OSC - Familiarize yourself with:
+      <td>OSTEP Introduction
           <ul style="margin-left: 0.25in">
-            <li>The overview of this course</li>
-            <li>Basic function of an OS</li>
-            <li>Basic components of a computer system</li>
+            <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-threeeasy.pdf">Dialogue</a></li>
+            <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf">Introduction</a></li>
           </ul>
       </td>
-      <td valign=top>None</td>
+      <td valign=top>Play with code from Introduction:
+      <br><br>
+      <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.intro.tgz">Code from OSTEP Intro</a>
+      </td>
     </tr>
 
     <tr>
