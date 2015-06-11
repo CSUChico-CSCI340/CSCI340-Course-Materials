@@ -35,7 +35,7 @@
           </ul>
       </td>
       <td valign=top>
-      References & Resources for Kernel Hacking in assignment 1<br>
+      References & Resources for Kernel Hacking in assignment 1<br><br>
       Familiarize yourself with <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.cpu-api.tgz">code examples</a> from Process API reading.
       </td>
     </tr>
