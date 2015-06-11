@@ -71,8 +71,21 @@
     </tr>
     <tr>
       <td>Week 5</td>
-      <td valign=top>Chapter 4 of OSC</td>
-
+      <td valign=top>
+      OSTEP Finish Scheduling
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf">Multi CPU Scheduling</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-dialogue.pdf">Summary</a></li>
+      </ul>
+      OSTEP Address Spaces
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-vm.pdf">Dialogue</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf">Address Spaces</a></li>
+      </ul>
+      </td>
+      <td>
+      None
+      </td>
     </tr>
     <tr>
       <td>Week 6</td>
