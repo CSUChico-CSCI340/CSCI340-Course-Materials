@@ -20,21 +20,24 @@
           </ul>
       </td>
       <td valign=top>Play with code from Introduction:
-      <br><br>
+      <br>
       <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.intro.tgz">Code from OSTEP Intro</a>
       </td>
     </tr>
 
     <tr>
       <td valign=top>Week 2</td>
-      <td>Chapter 2 of OSC (excluding section 2.8) - Familiarize yourself with
+      <td>OSTEP Processes
           <ul style="margin-left: 0.25in">
-            <li>Structure of OS</li>
-            <li>What are system calls</li>
-            <li>How we interact with the system</li>
+            <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-virtualization.pdf">Dialogue</a></li>
+            <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf">Processes</a></li>
+            <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf">Process API</a></li>
           </ul>
       </td>
-      <td valign=top>References & Resources for Kernel Hacking in assignment 1</td>
+      <td valign=top>
+      References & Resources for Kernel Hacking in assignment 1<br>
+      Familiarize yourself with <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.cpu-api.tgz">code examples</a> from Process API reading.
+      </td>
     </tr>
     <tr>
       <td valign=top>Week 3</td>
