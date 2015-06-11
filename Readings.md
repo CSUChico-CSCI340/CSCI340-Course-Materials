@@ -49,7 +49,7 @@
           </ul>
       </td>
       <td valign=top>
-          <p>Very helpful for assignment 2:</p>
+          Very helpful for assignment 2:
           <ul style="margin-left: 0.25in">
             <li><a href="http://www.gnu.org/software/libc/manual/html_node/Signal-Handling.html">Discussion of Signal Handling</a></li>
             <li><a href="http://www.alexonlinux.com/signal-handling-in-linux">More Signal Handling</a></li>
@@ -59,15 +59,15 @@
     <tr>
       <td valign=top>Week 4</td>
       <td valign=top>
-          Chapter 3 of OSC (3.4+):
-            <ul style="margin-left: 0.25in">
-                <li>Familiarize yourself with Interprocess communications</li>
-                <li>Familiarize yourself with Sockets</li>
-                <li>Familiarize yourself with Remote Procedure Calls</li>
-                <li>Familiarize yourself with Pipes (named/unamed)</li>
-            </ul>
+          OSTEP More Scheduling
+          <ul style="margin-left: 0.25in">
+              <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf">Multi-Level Feedback Scheduling</a></li>
+              <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-lottery.pdf">Lottery Scheduling</a></li>
+          </ul>
       </td>
-      <td valign=top>None</td>
+      <td valign=top>
+      Familiarize yourself with <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.cpu-sched-lottery.tgz">code examples</a> from Scheduling readings.
+      </td>
     </tr>
     <tr>
       <td>Week 5</td>
