@@ -53,6 +53,7 @@
           <ul style="margin-left: 0.25in">
             <li><a href="http://www.gnu.org/software/libc/manual/html_node/Signal-Handling.html">Discussion of Signal Handling</a></li>
             <li><a href="http://www.alexonlinux.com/signal-handling-in-linux">More Signal Handling</a></li>
+            <li>Chapter 8 Optional Systems book</li>
           </ul>
       </td>
     </tr>
