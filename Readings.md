@@ -90,18 +90,43 @@
     </tr>
     <tr>
       <td>Week 6</td>
-      <td valign=top>Chapter 5 of OSC</td>
-
+      <td valign=top>
+      OSTEP Address Spaces
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf">Memory API</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf">Address Translation</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf">Segmentation</a></li>
+      </ul>
+      </td>
+      <td valign=top>
+      None
+      </td>
     </tr>
    <tr>
       <td>Week 7</td>
-      <td valign=top>Chapter 7 of OSC</td>
+      <td valign=top>
+      OSTEP Address Spaces & Virtual Memory
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-freespace.pdf">Free Space Management</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf">Introduction to Paging</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf">Translation Lookaside Buffers</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf">Advanced Page Tables</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-dialogue.pdf">Summary</a></li>
+      </ul>
+      </td>
+      <td valign=top>
+      OSTEP Page Management (Useful for Paging Strategies assignment)
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf">Swapping: Mechanisms</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf">Swapping: Policies</a></li>
+      </ul>
+      </td>
 
     </tr>
     <tr>
       <td>Week 8</td>
       <td valign=top>No Reading - Review Midterm</td>
-
+      <td valign=top>None</td>
     </tr>
     <tr>
       <td>Spring Break</td>
