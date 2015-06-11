@@ -83,7 +83,7 @@
           <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf">Address Spaces</a></li>
       </ul>
       </td>
-      <td>
+      <td valign=top>
       None
       </td>
     </tr>
