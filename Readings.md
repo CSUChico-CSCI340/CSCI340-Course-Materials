@@ -130,18 +130,41 @@
     </tr>
     <tr>
       <td>Week 9</td>
-      <td valign=top>Concurrency</td>
-      <td valign=top>None</td>
+      <td valign=top>
+      OSTEP Concurrency
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-concurrency.pdf">Dialogue</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf">Concurrency and Threads Intro</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf">Threads API</a></li>
+      </ul>
+      </td>
+      <td valign=top>
+      Familiarize yourself with <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.threads-intro.tgz">code examples</a> from Threads Intro readings.
+      </td>
     </tr>
-
     <tr>
       <td>Week 10</td>
-      <td valign=top>Concurrency</td>
+      <td valign=top>
+      OSTEP Concurrency
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf">Locks</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf">Locked Data Structures</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf">Conditional Variables</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf">Semaphores</a></li>
+      </ul>
+      </td>
       <td valign=top>None</td>
     </tr>
     <tr>
       <td>Week 11</td>
-      <td valign=top>Concurrency</td>
+      <td valign=top>
+      OSTEP Concurrency
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf">Concurrency Bugs</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/threads-events.pdf">Event-based Concurrency</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/threads-dialogue.pdf">Summary</a></li>
+      </ul>
+      </td>
       <td valign=top>None</td>
     </tr>
     <tr>
