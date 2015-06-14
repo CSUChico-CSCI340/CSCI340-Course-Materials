@@ -5,7 +5,7 @@
 		<strong><h4>Week</h4></strong><br>
       </td>
       <td style="vertical-align: top; font-weight: bold;" >
-        <strong><h4>Required Readings</h4></strong><br>
+        <strong><h4>Recommended Readings</h4></strong><br>
       </td>
       <td style="vertical-align: top; font-weight: bold;" width="300">
         <strong><h4>Optional Readings</h4></strong><br>
