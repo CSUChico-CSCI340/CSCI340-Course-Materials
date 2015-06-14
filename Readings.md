@@ -169,7 +169,14 @@
     </tr>
     <tr>
       <td>Week 12</td>
-      <td valign=top>Finish Concurrency start Persistent Storage</td>
+      <td valign=top>
+      OSTEP Persistence
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-persistence.pdf">Dialogue</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf">I/O Devices</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf">Hard Disk Drives (Focus on how to prevent starvation)</a></li>
+      </ul>
+      </td>
       <td valign=top>None</td>
     </tr>
     <tr>
