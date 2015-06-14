@@ -1,4 +1,4 @@
-|Week     | Lab Plan | Code |
+|Week     | Lab Plan | Optional Code |
 |---------|:---------|:-----|
 |Week 1   | Introduce the Kernel Assignment | None |
 |Week 2   | Help with Kernel Assignment | None |
