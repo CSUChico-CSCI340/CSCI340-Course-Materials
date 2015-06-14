@@ -1,3 +1,11 @@
+#CSCI340 Labs
+
+The following is a table of what to expect to be covered each week in lab, this is a rough guide and may not match up exactly depending on where we are in lecture & current status of assignments.
+
+##Optional Lab Code
+
+The optional lab code section of the table are simulators & homework problems from the readings that can help you conceptualize the concepts from lecture and gain a firmer understanding of the material. These should help prepare you for the exams and help you tackle the assignments. I would recommend working through these after you do the associated reading or during the lab that week after we've finished introducing the next assignment and any helpful hints related to the assignment. 
+
 |Week     | Lab Plan | Optional Lab Code |
 |---------|:---------|:-----|
 |Week 1   | Introduce the Kernel Assignment | None |
