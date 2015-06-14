@@ -181,7 +181,14 @@
     </tr>
     <tr>
       <td>Week 13</td>
-      <td valign=top>Persistent Storage</td>
+      <td valign=top>
+      OSTEP Persistence
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/file-raid.pdf">RAID</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf">Files and Directories</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf">File System Implementation</a></li>
+      </ul>
+      </td>
       <td valign=top>None</td>
     </tr>
     <tr>
@@ -191,8 +198,25 @@
     </tr>
     <tr>
       <td>Week 15</td>
-      <td valign=top>Finish Persistent Storage</td>
-      <td valign=top>None</td>
+      <td valign=top>
+      OSTEP Persistence
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf">Fast File System</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf">Log-structured File Systems</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf">Data Integrity and Protection</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/file-dialogue.pdf">Summary</a></li>
+      </ul>
+      </td>
+      <td valign=top>
+      OSTEP Distributed
+      <ul style="margin-left: 0.25in">
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-distribution.pdf">Dialogue</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/dist-intro.pdf">Distributed Systems</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/dist-nfs.pdf">Network File System (NFS)</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/dist-afs.pdf">Andrew File System (AFS)</a></li>
+          <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/dist-dialogue.pdf">Summary</a></li>
+      </ul>
+      </td>
     </tr>
     <tr>
       <td>Week 16</td>
