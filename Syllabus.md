@@ -37,7 +37,22 @@ You will use this system to turn in your programming and lab assignments.
 
 ##Textbook
 
-Details coming soon
+We will be making use of a free, yes **free**, operating textbook that I feel offers a more technical and up to date presentation of the OS topics. This is a change from the previous semesters. I've linked the recommended chapters for the weekly readings on the [readings page](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Readings.md "CSCI340 Readings"), but for reference here is the book details:
+
+**Operating Systems: Three Easy Pieces**
+Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+Arpaci-Dusseau Books
+March, 2015 (Version 0.90)
+
+This textbook also offers simulators for a number of the topics with homework assignments at the end of many of the chapters that will be helpful to conceptualize some of the difficult topics for this course. I've selected some of the key ones I would recommend as well as timing and included these on the [labs](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Labs.md "Labs") page.
+
+In addition to this free textbook, you may also benefit renting the following book from Amazon for the semester to help with the [second assignment](https://github.com/CSUChico-CSCI340/CSCI340-Shell-Assignment "Shell Assignment") for the course. Chapter 8 of the book is where the following assignment is adapted from and could be extremely beneficial. You can rent it on Amazon for ~$20 for the semester.
+
+**Computer Systems: A Programmer's Perspective 2nd edition**
+by Randal E. Bryant, David R. O'Hallaron
+(2010) Addison-Wesley Pub Co: ISBN-10: 0136108040  
+
+A 3rd edition of this textbook just released, at the moment I'm not sure what material is contained in the 3rd edition and if it would be worth getting over the 2nd. If you have any interest in taking CSCI540, I'm currently using this text for that course and it makes a great reference. I'll likely be migrating to the 3rd edition in CSCI540 once I get a copy to review/verify the contents.
 
 ##Attendance
 
