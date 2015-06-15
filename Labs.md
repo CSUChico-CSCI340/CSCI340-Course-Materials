@@ -15,16 +15,16 @@ The optional lab code section of the table are simulators & homework problems fr
 |Week 3   | Introduce Shell Assignment & work through understanding CPU interleaving | Homework questions 1-8 from [CPU Intro](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf "CPU Intro") using [process-run.py] (http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-CPU-Intro.tgz "process-run.py") |
 |Week 4   | Signal Handlers/Procmask/ECF Folder | Homework questions 1-6 from [CPU Scheduling] (http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf "CPU Scheduling") using [scheduler.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-Scheduler.tgz "scheduler.py") |
 |Week 5   | None | Homework questions 1-3 from [Multi-Level Feedback Queue](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf "MLFQ") using [mlfq.py] (http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-MLFQ.tgz "mlfq.py")
-|Week 6   | |
-|Week 7   | |
-|Week 8   | |
+|Week 6   | Introduce Scheduler Assignment|
+|Week 7   | Introduce Pager Assignment    |
+|Week 8   | None - Review for Midterm     |
 |Week 9   | |
-|Week 10   | |
+|Week 10   | Introduce DNS Resolver Assignment |
 |Week 11   | |
 |Week 12   | |
-|Week 13   | |
-|Week 14   | |
+|Week 13   | Introduce IPC Assignment |
+|Week 14   | None - Thanksgiving |
 |Week 15   | |
-|Week 16   | |
+|Week 16   | None - Review for Final |
 
 More to come
