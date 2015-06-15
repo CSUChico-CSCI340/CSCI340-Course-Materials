@@ -39,16 +39,18 @@ You will use this system to turn in your programming and lab assignments.
 
 We will be making use of a free, yes **free**, operating textbook that I feel offers a more technical and up to date presentation of the OS topics. This is a change from the previous semesters. I've linked the recommended chapters for the weekly readings on the [readings page](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Readings.md "CSCI340 Readings"), but for reference here is the book details:
 
- **Operating Systems: Three Easy Pieces**
- Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
- Arpaci-Dusseau Books
- March, 2015 (Version 0.90)
+<p>
+<strong>Operating Systems: Three Easy Pieces</strong><br>
+Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau<br>
+Arpaci-Dusseau Books<br>
+March, 2015 (Version 0.90)<br>
+</p>
 
 This textbook also offers simulators for a number of the topics with homework assignments at the end of many of the chapters that will be helpful to conceptualize some of the difficult topics for this course. I've selected some of the key ones I would recommend as well as timing and included these on the [labs](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Labs.md "Labs") page.
 
 In addition to this free textbook, you may also benefit renting the following book from Amazon for the semester to help with the [second assignment](https://github.com/CSUChico-CSCI340/CSCI340-Shell-Assignment "Shell Assignment") for the course. Chapter 8 of the book is where the following assignment is adapted from and could be extremely beneficial. You can rent it on Amazon for ~$20 for the semester.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+<p>
 <strong><em>Computer Systems: A Programmer's Perspective</em> 2nd edition</strong>
 <br>
 by  Randal E. Bryant, David R. O'Hallaron
