@@ -26,5 +26,3 @@ The optional lab code section of the table are simulators & homework problems fr
 |Week 14   | None - Thanksgiving |
 |Week 15   | Help w/ IPC Assignment |
 |Week 16   | None - Review for Final |
-
-More to come
