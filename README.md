@@ -31,7 +31,7 @@ Details for the recommended readings for the course can be found on the [Reading
 
 ##[Assignments](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Assignments.md "CSCI340 Assignments")
 
-Due dates and assignment details can be found on the [Assignments.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Assignments.md "CSCI340 Assignments") page
+Assignment details can be found on the [Assignments.md](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Assignments.md "CSCI340 Assignments") page. Due dates are on my website for any given semester. 
 
 ##[Links](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Links.md "CSCI340 Links")
 
