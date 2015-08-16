@@ -92,9 +92,7 @@ I will routinely post the grading spreadsheet (Will be in google drive folder). 
 
 ###Grading Meetings
 
-I am going to try and have the graders for the class schedule 10-15 minutes with each of you for each assignment to ask you questions about each assignment and how you got it working. These questions/interviews will require you to fully understand your assignments and be able to explain what you got working and how it works. The interview will be a percentage of your programming project grade, we will likely use the same ratio I've used when I've done this in the past of 60% of your grade will come from being able to explain your code and 40% will come from your ability to solve the project.
-
-Alternatively, we may opt to use [MOSS](https://theory.stanford.edu/~aiken/moss/ "Standford's Moss System") and any students who do not pass the MOSS checks will have to see the graders for intensive interview grading.
+We are going to investigate all the projects you turn in to look for code plagiarism. Any students whose code isn't uniquely yours will need to schedule a grading meeting with the grader to answer detailed questions concerning how your code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking out fellow students for advice on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works. 
 
 ##Programming Assignments
 
