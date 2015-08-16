@@ -92,7 +92,7 @@ I will routinely post the grading spreadsheet (Will be in google drive folder). 
 
 ###Grading Meetings
 
-We are going to investigate all the projects you turn in to look for code plagiarism via a number of different methods. Any students whose code isn't uniquely yours will need to schedule a grading meeting with the grader to answer detailed questions concerning how your code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking out fellow students for advice on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works. 
+We are going to investigate all the projects you turn in to look for code plagiarism via a number of different methods. Any students whose code isn't uniquely yours will need to schedule a grading meeting with the grader to answer detailed questions concerning how your code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking out fellow students for advice on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works.
 
 ##Programming Assignments
 
@@ -107,7 +107,7 @@ Assignments will NOT be accepted more that 24 hours after the due date.
 
 As this is a upper division course you'll likely want to make use of my office hours for help as it is unlikely there are tutors or other such resources.
 
-We will be using Piazza for a class discussion board. You'll be invited via email; however there a link to the discussion board on the links page as well. General questions about the course, clarifications for an assignment, etc should be asked here so that other students in the course can benefit and I don't need to answer the same question multiple times. If you email me a question that should have been posted to the discussion board I'll ask you to ask it on the discussion board before I'll answer it.
+We will be using Piazza for a class discussion board. You should automatically be enrolled when you enrolled in this course on Moodle. You should post any general questions here first as this will allow more students to benefit from the answer vs me potentially answering the same questions numerous times.
 
 Additionally, you can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI340'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
 
@@ -115,9 +115,9 @@ I'll be making it a habit to respond immediately to emails received between 9am-
 
 I will routinely communicate with the class via announcements on the Piazza board. Make sure the email you use on Piazza is one you routinely check in case there is an important announcement.
 
-If you do not sign up for the Piazza account, you will not receive the class e-mails and may miss important information about the class.
+Make sure you have a Piazza account, you will not receive the class e-mails and may miss important information about the class if your account wasn't created.
 
-If you drop the class, you should be able to un-enroll from the Piazza discussion board to stop receiving messages. Let me know if you drop the class and still get e-mail.
+If you drop the class, you should be able to un-enroll from Moodle/Piazza to stop receiving messages. Let me know if you drop the class and still get e-mail.
 
 ##Responsibilities
 
