@@ -10,7 +10,4 @@
 <br><br>
 <a href="">Practice Midterm</a> - Practice CSCI340 Midterm
 <br><br>
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions directly to me, I encourage you to post your general questions on Piazza. Any questions that could violate the cheating policy if asked should be emailed directly to me. If you have any problems or feedback for the developers, email team@piazza.com.
-<br><br>
-Find our class page at: <a href="">Piazza Discussion Board</a>
-</p>
+<a href="https://moodle.csuchico.edu">Moodle</a> - We will be using the Moodle Learning Management System (LMS) this semester. Registering for an account and enrolling in this course on Moodle should also automatically enroll you in our <a href="http://piazza.com/">Piazza</a> discussion board. The enrollment key was given out in lecture, email me if you missed the first lecture and didn't get the enrollment key for Moodle. 
