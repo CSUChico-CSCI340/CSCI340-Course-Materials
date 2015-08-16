@@ -92,7 +92,7 @@ I will routinely post the grading spreadsheet (Will be in google drive folder). 
 
 ###Grading Meetings
 
-We are going to investigate all the projects you turn in to look for code plagiarism. Any students whose code isn't uniquely yours will need to schedule a grading meeting with the grader to answer detailed questions concerning how your code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking out fellow students for advice on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works. 
+We are going to investigate all the projects you turn in to look for code plagiarism via a number of different methods. Any students whose code isn't uniquely yours will need to schedule a grading meeting with the grader to answer detailed questions concerning how your code works. This meeting will make up 60% of your project grade and 40% will come from your ability to solve the project. If you didn't write your project you will likely fail the grading meeting and get a failing grade on the project. Seeking out fellow students for advice on how to get started is perfectly acceptable; however, do your own work and make sure you have a firm understanding of how your code works. 
 
 ##Programming Assignments
 
