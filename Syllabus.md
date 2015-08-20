@@ -113,9 +113,9 @@ Additionally, you can email me directly with any specific questions, the distinc
 
 I'll be making it a habit to respond immediately to emails received between 9am-5pm, except when I'll otherwise be in a meeting, lecture, etc. Any emails outside of those times will be answered as I can or potentially the next morning at 9am, so try to make sure to email me prior to 5pm.
 
-I will routinely communicate with the class via announcements on the Piazza board. Make sure the email you use on Piazza is one you routinely check in case there is an important announcement.
+I will routinely communicate with the class via announcements on the Piazza board. Make sure your email on Moodle that is integrated into Piazza is one you check regularly so that you don't miss any of these communications.
 
-Make sure you have a Piazza account, you will not receive the class e-mails and may miss important information about the class if your account wasn't created.
+Make sure you have a Moodle account and that you can access Piazza from the class page, you will not receive the class e-mails and may miss important information about the class if your account wasn't created.
 
 If you drop the class, you should be able to un-enroll from Moodle/Piazza to stop receiving messages. Let me know if you drop the class and still get e-mail.
 
