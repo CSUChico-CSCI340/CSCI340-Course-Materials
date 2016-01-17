@@ -102,8 +102,18 @@
       None
       </td>
     </tr>
-   <tr>
+    <tr>
       <td valign=top>Week 7</td>
+      <td valign=top>No Reading - Review Midterm</td>
+      <td valign=top>None</td>
+    </tr>
+    <tr>
+      <td valign=top>Week 8</td>
+      <td valign=top>No Reading - Spring Break</td>
+      <td valign=top>None</td>
+    </tr>
+   <tr>
+      <td valign=top>Week 9</td>
       <td valign=top>
       OSTEP Address Spaces & Virtual Memory
       <ul style="margin-left: 0.25in">
@@ -123,13 +133,9 @@
       </td>
 
     </tr>
+
     <tr>
-      <td valign=top>Week 8</td>
-      <td valign=top>No Reading - Review Midterm</td>
-      <td valign=top>None</td>
-    </tr>
-    <tr>
-      <td valign=top>Week 9</td>
+      <td valign=top>Week 10</td>
       <td valign=top>
       OSTEP Concurrency
       <ul style="margin-left: 0.25in">
@@ -143,7 +149,7 @@
       </td>
     </tr>
     <tr>
-      <td valign=top>Week 10</td>
+      <td valign=top>Week 11</td>
       <td valign=top>
       OSTEP Concurrency
       <ul style="margin-left: 0.25in">
@@ -156,7 +162,7 @@
       <td valign=top>None</td>
     </tr>
     <tr>
-      <td valign=top>Week 11</td>
+      <td valign=top>Week 12</td>
       <td valign=top>
       OSTEP Concurrency
       <ul style="margin-left: 0.25in">
@@ -168,7 +174,7 @@
       <td valign=top>None</td>
     </tr>
     <tr>
-      <td valign=top>Week 12</td>
+      <td valign=top>Week 13</td>
       <td valign=top>
       OSTEP Persistence
       <ul style="margin-left: 0.25in">
@@ -180,7 +186,7 @@
       <td valign=top>None</td>
     </tr>
     <tr>
-      <td  valign=top>Week 13</td>
+      <td  valign=top>Week 14</td>
       <td valign=top>
       OSTEP Persistence
       <ul style="margin-left: 0.25in">
@@ -189,11 +195,6 @@
           <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf">File System Implementation</a></li>
       </ul>
       </td>
-      <td valign=top>None</td>
-    </tr>
-    <tr>
-      <td valign=top>Week 14</td>
-      <td>Thanksgiving Break -- No Readings</td>
       <td valign=top>None</td>
     </tr>
     <tr>
