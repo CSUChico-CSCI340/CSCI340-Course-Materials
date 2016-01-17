@@ -10,4 +10,4 @@ I have a Number of assignments I use regularly in this course:
 
 * [DNS Resolver](https://github.com/CSUChico-CSCI340/CSCI340-DNS-Name-Resolution-Engine "CSCI340-DNS-Name-Resolution-Engine")
 
-* [IPC Assignment](https://github.com/CSUChico-CSCI340/CSCI340-IPC-PipeBenchmark "CSCI340-IPC-PipeBenchmark")
+* [IPC Assignment](https://github.com/CSUChico-CSCI340/CSCI340-IPC-Benchmark "CSCI340-IPC-PipeBenchmark")
