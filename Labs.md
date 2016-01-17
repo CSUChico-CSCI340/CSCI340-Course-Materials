@@ -16,13 +16,13 @@ The optional lab code section of the table are simulators & homework problems fr
 |Week 4   | Signal Handlers/Procmask/ECF Folder | Homework questions 1-6 from [CPU Scheduling] (http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf "CPU Scheduling") using [scheduler.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-Scheduler.tgz "scheduler.py") |
 |Week 5   | Help with Shell Assignment | Homework questions 1-3 from [Multi-Level Feedback Queue](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf "MLFQ") using [mlfq.py] (http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-MLFQ.tgz "mlfq.py")
 |Week 6   | Introduce Scheduler Assignment|
-|Week 7   | Introduce Pager Assignment    | Homework Questions 1-7 from [Free Space Management](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-freespace.pdf "Free Space Management") using the [freespace.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-Freespace.tgz "freespace.py") program |
-|Week 8   | None - Review for Midterm     |
-|Week 9   | Help w/ Pager Assignment | Homework Questions 1-2 from [VM Policies](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf "VM Policies") using [paging-policy.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-Paging-Policy.tgz "paging-policy.py")
-|Week 10   | Introduce DNS Resolver Assignment | Homework Questions 1-10 from [Threads Intro](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf "Threads Intro") using [x86.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-ThreadsIntro.tgz) for Threads Intro.
-|Week 11   | Help w/ DNS Resolver Assignment |Homework Questions 1-15 from [Threads Locks](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf "Threads Locks") using [x86.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-ThreadsLocks.tgz) for Threads Locks.
-|Week 12   | Help w/ DNS Resolver Assignment |
-|Week 13   | Introduce IPC Assignment |
-|Week 14   | None - Thanksgiving |
+|Week 7   | None - Midterm |
+|Week 8   | None - Spring Break     |
+|Week 9   | Introduce Pager Assignment    | Homework Questions 1-7 from [Free Space Management](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-freespace.pdf "Free Space Management") using the [freespace.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-Freespace.tgz "freespace.py") program |
+|Week 10   | Help w/ Pager Assignment | Homework Questions 1-2 from [VM Policies](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf "VM Policies") using [paging-policy.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-Paging-Policy.tgz "paging-policy.py")
+|Week 11   | Introduce DNS Resolver Assignment | Homework Questions 1-10 from [Threads Intro](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf "Threads Intro") using [x86.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-ThreadsIntro.tgz) for Threads Intro.
+|Week 12   | Help w/ DNS Resolver Assignment |Homework Questions 1-15 from [Threads Locks](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf "Threads Locks") using [x86.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-ThreadsLocks.tgz) for Threads Locks.
+|Week 13   | Help w/ DNS Resolver Assignment |
+|Week 14   | Introduce IPC Assignment |
 |Week 15   | Help w/ IPC Assignment |
 |Week 16   | None - Review for Final |
