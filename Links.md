@@ -1,4 +1,4 @@
-<a href="https://drive.google.com/folderview?id=0BxCHPj-PjPvFflh0Zlo4R1ROREdtTmRZMDF3Sjc3cUdDU0t4NHpxbVozQnBNWGZuSG9xRzQ&usp=sharing">Google Drive Shared Folder</a> - Shared folder of lecture slides, gradesheet, and other materials.
+<a href="https://goo.gl/shWFha">Google Drive Shared Folder</a> - Shared folder of lecture slides, gradesheet, and other materials.
 <br><br>
 <a href="https://github.com/">GitHub</a> - Version Control & Open Source Code Repository
 <br><br>
