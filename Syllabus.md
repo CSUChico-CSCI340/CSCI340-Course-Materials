@@ -10,22 +10,10 @@ Grade of C- or better in CSCI 311. (or approved equivalent, check with your advi
 
 Students who take this class without completing the prerequisite class will be given a failing grade.
 
-##ECST Computing Accounts
-
-You will need an ECST (Engineering College) computer account in order to do the assignments.
-
-If you have never received an ECST account, go to [accounts.ecst.csuchico.edu](http://accounts.ecst.csuchico.edu) and sign up.
-
-If you have ever received an ECST account, it should still exist. Make sure it works before your first lab:
-
-Use the [putty remote terminal](http://www.puttyssh.org/ "Putty") program to log onto jaguar.ecst.csuchico.edu to from your computer to make sure you account is working.
-
-You can use [accounts.ecst.csuchico.edu](http://accounts.ecst.csuchico.edu)	to reset your password (see [Elbert Chan](http://csci.ecst.csuchico.edu/faculty-staff/chan-elbert "Elbert Chan") if you have problems).
-
 
 ##Course Accounts
 
-In addition to an ECST account, you need an account in the CSCI assignment turn-in system.
+In addition to an CSU Chico Lab account, you need an account in the CSCI assignment turn-in system.
 
 Go to [https://turnin.ecst.csuchico.edu](https://turnin.ecst.csuchico.edu "Tyson's Turnin System") and create a new account.
 
@@ -72,7 +60,7 @@ Missing class can make the projects and exams especially difficult. If I verball
 
 If you regularly skip class I will not answer questions on the material you missed.
 
-Attendance of labs is not required; however, this will be where we will walk through examples of the material covered in lecture and tools for your assignments. As such, you will likely not do well on the labs and exams that will rely on this material if you miss the labs.
+Attendance of labs is not required; however, this will be where we will walk through examples of the material covered in lecture and tools for your assignments. As such, you will likely not do well on the labs and exams that will rely on this material if you miss the labs. I'll also be factoring in attendance into your overall grade, so make sure you sign in every lab, if you don't stay for the lab then this won't count.
 
 ##Grading
 
@@ -84,11 +72,11 @@ I will routinely post the grading spreadsheet (Will be in google drive folder). 
 
 + Exams 40% of course grade (1 midterm and a final)
 
-+ Programming Projects 55% of course grade
++ Programming Projects 60% of course grade
 
-+ Practice Problems 5% (If non exist then will become part of Programming Projects percentage)
++ Lecture Attendance can improve/lower your grade (see above)
 
-+ Lecture & Lab Attendance can improve/lower your grade (see above)
++ Lab Attendance - up to 5%, I'll have an attendance sheet in the lab for those who come to lab regularly and make use of the lab time to ask me questions. I will consider giving up to 5% of credit for this.
 
 ###Grading Meetings
 
@@ -167,6 +155,8 @@ The first time you cheat, you will get a 0 on the test or assignment. The second
 
 
 >I reserve the right to catch cheaters after the end of the semester. Just because a cheater makes it to the end of the semester without being caught does not mean he or she has gotten away with it. Since I keep assignments it is possible for me to catch cheaters after the fact. For example, assume your friend George gives you his old program and you turn it in. Next semester George might give his program to someone else and I could catch it. Now I will look through all old programs to see who else George has given his program to. One of my advantages is that I can use programs to look for all instances of an assignment over the past several years. And while I might not catch everyone, I am always amazed at the people I do catch.
+
+The code you write in this class is my property and if you share this code after the semester ends, after you graduate, etc I reserve the right to seek legal damages and to seek to retroactively fail you for this class. *DO NOT* share code from class with others. Employers who want to see a coding portfolio want to see code you developed outside of the required code you wrote for courses. 
 
 ##Religious Holidays
 
