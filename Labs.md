@@ -23,6 +23,6 @@ The optional lab code section of the table are simulators & homework problems fr
 |Week 11   | Help w/ DNS Resolver Assignment |Homework Questions 1-15 from [Threads Locks](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf "Threads Locks") using [x86.py](http://pages.cs.wisc.edu/~remzi/OSTEP/Homework/HW-ThreadsLocks.tgz) for Threads Locks.
 |Week 12   | Help w/ DNS Resolver Assignment |
 |Week 13   | Introduce IPC Assignment |
-|Week 14   | None - Spring Break     |
+|Week 14   | None - Thanksgiving Break     |
 |Week 15   | Help w/ IPC Assignment |
 |Week 16   | None - Review for Final |
