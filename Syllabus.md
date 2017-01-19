@@ -169,3 +169,11 @@ If you need course adaptations or accommodations because of a disability or chro
 ##Confidentiality and Mandatory Reporting
 
 As an instructor, one of my responsibilities is to help create a safe learning environment on our campus.  I may also have a mandatory reporting responsibility related to my role. It is my goal that you feel able to share information related to your life experiences in classroom discussions, in your written work, and in our one-on-one meetings. I will seek to keep information you share private to the greatest extent possible. However, I am required to share information regarding sexual misconduct with the University. Students may speak to someone confidentially by contacting the Counseling and Wellness Center (898-6345) or Safe Place (898-3030).  Information on campus reporting obligations and other Title IX related resources are available here: [www.csuchico.edu/title-ix](http://www.csuchico.edu/title-ix)
+
+##Safe Zone Statement
+
+I am part of the Safe Zone Ally community network of trained Chico State faculty/staff/students who are available to listen and support you in a safe and confidential manner. As a Safe Zone Ally, I can help you connect with resources on campus to address problems you may face that interfere with your academic and social success on campus as it relates to issues surrounding sexual orientation/gender identity. My goal is to help you be successful and to maintain a safe and equitable campus. 
+
+##LGBTQ Equality Statement
+
+I am firmly committed to diversity and equality in all areas of campus life, including specifically members of the LGBTQ community. In this class I will work to promote an anti-discriminatory environment where everyone feels safe and welcome. I recognize that discrimination can be direct or indirect and take place at both institutional and personal levels. I believe that such discrimination is unacceptable and I am committed to providing equality of opportunity for all by eliminating any and all discrimination, harassment, bullying, or victimization. The success of this policy relies on the support and understanding of everyone in this class. We all have a responsibility not to be offensive to each other, or to participate in, or condone harassment or discrimination of any kind. 
