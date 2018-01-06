@@ -111,12 +111,6 @@
     </tr>
     <tr>
       <td valign=top>Week 8</td>
-      <td valign=top>No Reading - Spring Break</td>
-      <td valign=top>None</td>
-    </tr>
-    
-   <tr>
-      <td valign=top>Week 9</td>
       <td valign=top>
       OSTEP Address Spaces & Virtual Memory
       <ul style="margin-left: 0.25in">
@@ -135,6 +129,13 @@
       </ul>
       </td>
 
+     
+    </tr>
+    
+   <tr>
+      <td valign=top>Week 9</td>
+       <td valign=top>No Reading - Spring Break</td>
+      <td valign=top>None</td>
     </tr>
     <tr>
       <td valign=top>Week 10</td>
