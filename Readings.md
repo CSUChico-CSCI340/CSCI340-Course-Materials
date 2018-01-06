@@ -1,8 +1,8 @@
 <table border="0">
   <tbody>
-    <tr>
+     <tr>
       <td style="vertical-align: top; font-weight: bold;" width="150">
-		<strong><h4>Week</h4></strong><br>
+        <strong><h4>Week</h4></strong><br>
       </td>
       <td style="vertical-align: top; font-weight: bold;" >
         <strong><h4>Recommended Readings</h4></strong><br>
@@ -127,16 +127,15 @@
           <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf">Swapping: Mechanisms</a></li>
           <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf">Swapping: Policies</a></li>
       </ul>
-      </td>
-
-     
+      </td>     
     </tr>
     
-   <tr>
+    <tr>
       <td valign=top>Week 9</td>
        <td valign=top>No Reading - Spring Break</td>
       <td valign=top>None</td>
     </tr>
+    
     <tr>
       <td valign=top>Week 10</td>
       <td valign=top>
