@@ -177,3 +177,9 @@ I am part of the Safe Zone Ally community network of trained Chico State faculty
 ## LGBTQ Equality Statement
 
 I am firmly committed to diversity and equality in all areas of campus life, including specifically members of the LGBTQ community. In this class I will work to promote an anti-discriminatory environment where everyone feels safe and welcome. I recognize that discrimination can be direct or indirect and take place at both institutional and personal levels. I believe that such discrimination is unacceptable and I am committed to providing equality of opportunity for all by eliminating any and all discrimination, harassment, bullying, or victimization. The success of this policy relies on the support and understanding of everyone in this class. We all have a responsibility not to be offensive to each other, or to participate in, or condone harassment or discrimination of any kind.
+
+## Chico State Basic Needs Project
+
+**The Hungry Wildcat Food Pantry** provides supplemental food, fresh produce, CalFresh application assistance and basic needs referral services for students experiencing food and housing insecurity.
+
+All students are welcomed to visit the Pantry located in the **Student Service Center 196**, open **Monday-Friday, 11am-4pm** or call **530-898-4098**. Please visit the Chico State Basic Needs website [http://www.csuchico.edu/basic-needs](http://www.csuchico.edu/basic-needs) for more information
