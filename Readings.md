@@ -24,7 +24,6 @@
       <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.intro.tgz">Code from OSTEP Intro</a>
       </td>
     </tr>
-
     <tr>
       <td valign=top>Week 2</td>
       <td>OSTEP Processes
@@ -102,8 +101,6 @@
       None
       </td>
     </tr>
-
-
     <tr>
       <td valign=top>Week 7</td>
       <td valign=top>No Reading - Prepare for Midterm</td>
@@ -128,16 +125,9 @@
           <li><a href="http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf">Swapping: Policies</a></li>
       </ul>
       </td>     
-    </tr>
-    
+    </tr>   
     <tr>
       <td valign=top>Week 9</td>
-       <td valign=top>No Reading - Spring Break</td>
-      <td valign=top>None</td>
-    </tr>
-    
-    <tr>
-      <td valign=top>Week 10</td>
       <td valign=top>
       OSTEP Concurrency
       <ul style="margin-left: 0.25in">
@@ -149,10 +139,9 @@
       <td valign=top>
       Familiarize yourself with <a href="http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.threads-intro.tgz">code examples</a> from Threads Intro readings.
       </td>
-    </tr>
-    
+    </tr>    
     <tr>
-      <td valign=top>Week 11</td>
+      <td valign=top>Week 10</td>
       <td valign=top>
       OSTEP Concurrency
       <ul style="margin-left: 0.25in">
@@ -165,7 +154,7 @@
       <td valign=top>None</td>
     </tr>
     <tr>
-      <td valign=top>Week 12</td>
+      <td valign=top>Week 11</td>
       <td valign=top>
       OSTEP Concurrency
       <ul style="margin-left: 0.25in">
@@ -177,7 +166,7 @@
       <td valign=top>None</td>
     </tr>
     <tr>
-      <td valign=top>Week 13</td>
+      <td valign=top>Week 12</td>
       <td valign=top>
       OSTEP Persistence
       <ul style="margin-left: 0.25in">
@@ -188,6 +177,11 @@
       </td>
       <td valign=top>None</td>
     </tr>
+    <tr>
+      <td valign=top>Week 13</td>
+       <td valign=top>No Reading - Thanksgiving</td>
+      <td valign=top>None</td>
+    </tr> 
     <tr>
       <td  valign=top>Week 14</td>
       <td valign=top>
