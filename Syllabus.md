@@ -6,7 +6,7 @@ Bryan Dixon
 
 ## Prerequisite
 
-CSCI 311 and either CSCI 221 or EECE 237, all with a grade of C or higher.
+Grade of C or better in CSCI 311 and EECE320. (or approved equivalent, check with your advisor)
 
 Students who take this class without completing the prerequisite class will be given a failing grade.
 
