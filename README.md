@@ -8,7 +8,7 @@ The course catalogue describes this course as follows:
 
 
 ###Prerequisites:
-Grade of C- or better in CSCI 311.
+Grade of C or better in CSCI 311 and EECE320.
 
 ###Description
 
