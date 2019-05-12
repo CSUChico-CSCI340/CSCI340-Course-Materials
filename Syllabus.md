@@ -28,8 +28,11 @@ You will use this system to turn in your programming and lab assignments.
 We will be making use of a free, yes **free**, operating textbook that I feel offers a more technical and up to date presentation of the OS topics. This is a change from the previous semesters. I've linked the recommended chapters for the weekly readings on the [readings page](https://github.com/CSUChico-CSCI340/CSCI340-Course-Materials/blob/master/Readings.md "CSCI340 Readings"), but for reference here is the book details:
 
 **Operating Systems: Three Easy Pieces**
+
 Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
+
 Arpaci-Dusseau Books
+
 March, 2015 (Version 0.90)
 
 
@@ -39,7 +42,9 @@ In addition to this free textbook, you may also benefit renting the following bo
 
 
 ***Computer Systems: A Programmer's Perspective* 2nd edition**
+
 by  Randal E. Bryant, David R. O'Hallaron
+
 (2010) Addison-Wesley Pub Co: ISBN-10: 0136108040
 
 A 3rd edition of this textbook just released, at the moment I'm not sure what material is contained in the 3rd edition and if it would be worth getting over the 2nd. If you have any interest in taking CSCI540, I'm currently using this text for that course and it makes a great reference. I'll likely be migrating to the 3rd edition in CSCI540 once I get a copy to review/verify the contents.
