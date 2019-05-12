@@ -119,42 +119,39 @@ You will not learn the material if you don't put in the time and effort required
 
 ## Honesty
 
-The first time you cheat, you will get a 0 on the test or assignment. The second time you cheat you will fail the class. It is not a good idea to cheat in my class. I will be following Tyson Henry's Cheating Policy until I put together one of my own.
+The first time you cheat, you will get a 0 on the test or assignment. The second time you cheat you will fail the class. It is not a good idea to cheat in my class. I will be following Tyson Henry's Cheating Policy until I put together one of my own:
 
 
+I expect all students to understand and follow the University?s honesty policies (http://www.csuchico.edu/prs/EMs/2004/04-036.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
 
->I expect all students to understand and follow the University?s honesty policies (http://www.csuchico.edu/prs/EMs/2004/04-036.shtml). I will fail students who do not follow these policies, even if they don't understand them. It is your responsibility to understand these policies.
+The bottom line is that you must do all the assignments on your own. Turning in code that anyone else wrote is cheating and will result in failing the course. Here are some examples of cheating:
 
->The bottom line is that you must do all the assignments on your own. Turning in code that anyone else wrote is cheating and will result in failing the course. Here are some examples of cheating:
-
->copying code from another student
->copying code from a book
->copying code from the Internet
->getting your friends to write your code
->paying someone else to write your code
->pestering other students until they give you their code
->buying code
->stealing code
->letting someone steal your code (e.g. giving out your password, or using incorrect file protection)
->giving your code to another student (both giving code and taking code are forms of cheating)
->giving your laptop that contains your program to another student
->getting so much help on an assignment that you are no longer doing the assignment (this can come from one helper or many helpers)
->crowdsourcing your code
->the list can go on...
-
-
->On the other hand, you are allowed to discuss projects and you may get help each other find bugs. Just make sure you don't get so much help that you are no longer doing the work.
-
->Required Consultation: If I suspect that you did not do your own work (e.g. someone else wrote your programs), you are required to meet with me and discuss your program. During this meeting I will ask you simple questions about your program. If you don't know how your program works I will assume you have cheated. In the event that you refuse to meet with me I will:
-
->+ 	assume you cheated
-
->+ 	give you a zero
-
->+ 	report you to Student Judicial Affairs.
+* copying code from another student
+* copying code from a book
+* copying code from the Internet
+* getting your friends to write your code
+* paying someone else to write your code
+* pestering other students until they give you their code
+* buying code
+* stealing code
+* letting someone steal your code (e.g. giving out your password, or using incorrect file protection)
+* giving your code to another student (both giving code and taking code are forms of cheating)
+* giving your laptop that contains your program to another student
+* getting so much help on an assignment that you are no longer doing the assignment (this can come from one helper or many helpers)
+* crowdsourcing your code 
+* the list can go on...
 
 
->I reserve the right to catch cheaters after the end of the semester. Just because a cheater makes it to the end of the semester without being caught does not mean he or she has gotten away with it. Since I keep assignments it is possible for me to catch cheaters after the fact. For example, assume your friend George gives you his old program and you turn it in. Next semester George might give his program to someone else and I could catch it. Now I will look through all old programs to see who else George has given his program to. One of my advantages is that I can use programs to look for all instances of an assignment over the past several years. And while I might not catch everyone, I am always amazed at the people I do catch.
+On the other hand, you are allowed to discuss projects and you may get help each other find bugs. Just make sure you don't get so much help that you are no longer doing the work.
+
+Required Consultation: If I suspect that you did not do your own work (e.g. someone else wrote your programs), you are required to meet with me and discuss your program. During this meeting I will ask you simple questions about your program. If you don't know how your program works I will assume you have cheated. In the event that you refuse to meet with me I will:
+
+*	assume you cheated
+* give you a zero
+* report you to Student Judicial Affairs.
+
+
+I reserve the right to catch cheaters after the end of the semester. Just because a cheater makes it to the end of the semester without being caught does not mean he or she has gotten away with it. Since I keep assignments it is possible for me to catch cheaters after the fact. For example, assume your friend George gives you his old program and you turn it in. Next semester George might give his program to someone else and I could catch it. Now I will look through all old programs to see who else George has given his program to. One of my advantages is that I can use programs to look for all instances of an assignment over the past several years. And while I might not catch everyone, I am always amazed at the people I do catch.
 
 The code you write in this class is my property and if you share this code after the semester ends, after you graduate, etc I reserve the right to seek legal damages and to seek to retroactively fail you for this class. *DO NOT* share code from class with others. Employers who want to see a coding portfolio want to see code you developed outside of the required code you wrote for courses.
 
