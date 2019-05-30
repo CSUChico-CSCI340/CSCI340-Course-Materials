@@ -37,27 +37,27 @@
 |         | [Concurrency and Threads Intro](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)                         |                                                                      |
 |         | [Threads API](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf)                                           |                                                                      |
 | Week 10 | OSTEP Concurrency                                     | None                                                                 |
-|         | Locks                                                 |                                                                      |
-|         | Locked Data Structures                                |                                                                      |
-|         | Conditional Variables                                 |                                                                      |
-|         | Semaphores                                            |                                                                      |
+|         | [Locks](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf)                                                 |                                                                      |
+|         | [Locked Data Structures](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-locks-usage.pdf)                                |                                                                      |
+|         | [Conditional Variables](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf)                                |                                                                      |
+|         | [Semaphores](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf)                                            |                                                                      |
 | Week 11 | OSTEP Concurrency                                     | None                                                                 |
-|         | Concurrency Bugs                                      |                                                                      |
-|         | Event-based Concurrency                               |                                                                      |
-|         | Summary                                               |                                                                      |
+|         | [Concurrency Bugs](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf)                                      |                                                                      |
+|         | [Event-based Concurrency](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-events.pdf)                               |                                                                      |
+|         | [Summary](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-dialogue.pdf)                                               |                                                                      |
 | Week 12 | OSTEP Persistence                                     | None                                                                 |
-|         | Dialogue                                              |                                                                      |
-|         | I/O Devices                                           |                                                                      |
-|         | Hard Disk Drives (Focus on how to prevent starvation) |                                                                      |
+|         | [Dialogue](http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-persistence.pdf)                                              |                                                                      |
+|         | [I/O Devices](http://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf)                                           |                                                                      |
+|         | [Hard Disk Drives (Focus on how to prevent starvation)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf) |                                                                      |
 | Week 13 | No Reading - Thanksgiving                             | None                                                                 |
 | Week 14 | OSTEP Persistence                                     | None                                                                 |
-|         | RAID                                                  |                                                                      |
-|         | Files and Directories                                 |                                                                      |
-|         | File System Implementation                            |                                                                      |
+|         | [RAID](http://pages.cs.wisc.edu/~remzi/OSTEP/file-raid.pdf)                                                  |                                                                      |
+|         | [Files and Directories](http://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)                                 |                                                                      |
+|         | [File System Implementation](http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf)                            |                                                                      |
 | Week 15 | OSTEP Persistence                                     | OSTEP Distributed                                                    |
-|         | Fast File System                                      | Dialogue                                                             |
-|         | Log-structured File Systems                           | Distributed Systems                                                  |
-|         | Data Integrity and Protection                         | Network File System (NFS)                                            |
-|         | Summary                                               | Andrew File System (AFS)                                             |
-|         |                                                       | Summary                                                              |
+|         | [Fast File System](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)                                      | [Dialogue](http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-distribution.pdf)                                                             |
+|         | [Log-structured File Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf)                           | [Distributed Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/dist-intro.pdf)                                                  |
+|         | [Data Integrity and Protection](http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)                         | [Network File System (NFS)](http://pages.cs.wisc.edu/~remzi/OSTEP/dist-nfs.pdf)                                            |
+|         | [Summary](http://pages.cs.wisc.edu/~remzi/OSTEP/file-dialogue.pdf)                                               | [Andrew File System (AFS)](http://pages.cs.wisc.edu/~remzi/OSTEP/dist-afs.pdf)                                             |
+|         |                                                       | [Summary](http://pages.cs.wisc.edu/~remzi/OSTEP/dist-dialogue.pdf)                                                              |
 | Week 16 | No Readings - Review for Final                        | None                                                                 |
