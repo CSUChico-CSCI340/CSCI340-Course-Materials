@@ -5,16 +5,16 @@
 |         | [Dialogue](http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-threeeasy.pdf)                                              | [Code from OSTEP Intro](http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.intro.tgz)                                                |
 |         | [Introduction](http://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf)                                         |                                                                      |
 | Week 2  | OSTEP Processes                                       | References & Resources for Kernel Hacking in assignment 1            |
-|         | Dialogue                                              |                                                                      |
-|         | Processes                                             | Familiarize yourself with code examples from Process API reading.    |
-|         | Process API                                           |                                                                      |
+|         | [Dialogue](http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-virtualization.pdf)                                              |                                                                      |
+|         | [Processes](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf)                                             | Familiarize yourself with [code examples](http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.cpu-api.tgz) from Process API reading.    |
+|         | [Process API](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf)                                           |                                                                      |
 | Week 3  | OSTEP Direct Execution & Scheduling                   | Very helpful for assignment 2:                                       |
-|         | Direct Execution                                      | Discussion of Signal Handling                                        |
-|         | CPU Scheduling                                        | More Signal Handling                                                 |
+|         | [Direct Execution](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf)                                      | [Discussion of Signal Handling](http://www.gnu.org/software/libc/manual/html_node/Signal-Handling.html)                                        |
+|         | [CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf)                                        | [More Signal Handling](http://www.alexonlinux.com/signal-handling-in-linux)                                                 |
 |         |                                                       | Chapter 8 Optional Systems book                                      |
-| Week 4  | OSTEP More Scheduling                                 | Familiarize yourself with code examples from Scheduling readings.    |
-|         | Multi-Level Feedback Scheduling                       |                                                                      |
-|         | Lottery Scheduling                                    |                                                                      |
+| Week 4  | OSTEP More Scheduling                                 | Familiarize yourself with [code examples](http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.cpu-sched-lottery.tgz) from Scheduling readings.    |
+|         | [Multi-Level Feedback Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-mlfq.pdf)                       |                                                                      |
+|         | [Lottery Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-lottery.pdf)                                    |                                                                      |
 | Week 5  | OSTEP Finish Scheduling                               | None                                                                 |
 |         | Multi CPU Scheduling                                  |                                                                      |
 |         | Summary                                               |                                                                      |
