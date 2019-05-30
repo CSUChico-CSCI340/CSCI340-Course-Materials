@@ -19,23 +19,23 @@
 |         | [Multi CPU Scheduling](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-sched-multi.pdf)                                  |                                                                      |
 |         | [Summary](http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-dialogue.pdf)                                               |                                                                      |
 |         | OSTEP Address Spaces                                  |                                                                      |
-|         | Dialogue                                              |                                                                      |
-|         | Address Spaces                                        |                                                                      |
+|         | [Dialogue](http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-vm.pdf)                                              |                                                                      |
+|         | [Address Spaces](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-intro.pdf)                                        |                                                                      |
 | Week 6  | OSTEP Address Spaces                                  | None                                                                 |
-|         | Memory API                                            |                                                                      |
-|         | Address Translation                                   |                                                                      |
-|         | Segmentation                                          |                                                                      |
+|         | [Memory API](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf)                                            |                                                                      |
+|         | [Address Translation](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf)                                   |                                                                      |
+|         | [Segmentation](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf)                                          |                                                                      |
 | Week 7  | No Reading - Prepare for Midterm                      | None                                                                 |
 | Week 8  | OSTEP Address Spaces & Virtual Memory                 | OSTEP Page Management (Useful for Paging Strategies assignment)      |
-|         | Free Space Management                                 | Swapping: Mechanisms                                                 |
-|         | Introduction to Paging                                | Swapping: Policies                                                   |
-|         | Translation Lookaside Buffers                         |                                                                      |
-|         | Advanced Page Tables                                  |                                                                      |
-|         | Summary                                               |                                                                      |
-| Week 9  | OSTEP Concurrency                                     | Familiarize yourself with code examples from Threads Intro readings. |
-|         | Dialogue                                              |                                                                      |
-|         | Concurrency and Threads Intro                         |                                                                      |
-|         | Threads API                                           |                                                                      |
+|         | [Free Space Management](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-freespace.pdf)                                 | [Swapping: Mechanisms](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf)                                                 |
+|         | [Introduction to Paging](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf)                                | [Swapping: Policies](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf)                                                   |
+|         | [Translation Lookaside Buffers](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf)                         |                                                                      |
+|         | [Advanced Page Tables](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf)                                  |                                                                      |
+|         | [Summary](http://pages.cs.wisc.edu/~remzi/OSTEP/vm-dialogue.pdf)                                               |                                                                      |
+| Week 9  | OSTEP Concurrency                                     | Familiarize yourself with [code examples](http://pages.cs.wisc.edu/~remzi/OSTEP/Code/code.threads-intro.tgz) from Threads Intro readings. |
+|         | [Dialogue](http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-concurrency.pdf)                                              |                                                                      |
+|         | [Concurrency and Threads Intro](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf)                         |                                                                      |
+|         | [Threads API](http://pages.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf)                                           |                                                                      |
 | Week 10 | OSTEP Concurrency                                     | None                                                                 |
 |         | Locks                                                 |                                                                      |
 |         | Locked Data Structures                                |                                                                      |
