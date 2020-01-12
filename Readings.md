@@ -48,16 +48,15 @@
 | Week 12 | OSTEP Persistence                                     | None                                                                 |
 |         | [Dialogue](http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-persistence.pdf)                                              |                                                                      |
 |         | [I/O Devices](http://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf)                                           |                                                                      |
-|         | [Hard Disk Drives (Focus on how to prevent starvation)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf) |                                                                      |
-| Week 13 | No Reading - Thanksgiving                             | None                                                                 |
-| Week 14 | OSTEP Persistence                                     | None                                                                 |
+|         | [Hard Disk Drives (Focus on how to prevent starvation)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf) | 
+| Week 13 | OSTEP Persistence                                     | None                                                                 |
 |         | [RAID](http://pages.cs.wisc.edu/~remzi/OSTEP/file-raid.pdf)                                                  |                                                                      |
 |         | [Files and Directories](http://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)                                 |                                                                      |
-|         | [File System Implementation](http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf)                            |                                                                      |
-| Week 15 | OSTEP Persistence                                     | OSTEP Distributed                                                    |
+|         | [File System Implementation](http://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf)                      |
+| Week 14 | OSTEP Persistence                                     | OSTEP Distributed                                                    |
 |         | [Fast File System](http://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)                                      | [Dialogue](http://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-distribution.pdf)                                                             |
 |         | [Log-structured File Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf)                           | [Distributed Systems](http://pages.cs.wisc.edu/~remzi/OSTEP/dist-intro.pdf)                                                  |
 |         | [Data Integrity and Protection](http://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf)                         | [Network File System (NFS)](http://pages.cs.wisc.edu/~remzi/OSTEP/dist-nfs.pdf)                                            |
 |         | [Summary](http://pages.cs.wisc.edu/~remzi/OSTEP/file-dialogue.pdf)                                               | [Andrew File System (AFS)](http://pages.cs.wisc.edu/~remzi/OSTEP/dist-afs.pdf)                                             |
 |         |                                                       | [Summary](http://pages.cs.wisc.edu/~remzi/OSTEP/dist-dialogue.pdf)                                                              |
-| Week 16 | No Readings - Review for Final                        | None                                                                 |
+| Week 15 | No Readings - Review for Final                        | None                                                                 |
