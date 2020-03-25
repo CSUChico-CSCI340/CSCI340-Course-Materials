@@ -85,6 +85,17 @@ There will be at least 6 assignments due at approximately 2 week intervals start
 Assignments turned in 1-24 hours after the due date will lose 15%
 Assignments will NOT be accepted more that 24 hours after the due date.
 
+## COVID-19 Exam Proctoring Spring 2020
+
+To maintain academic integrity of online exams, this course will use online proctoring software called Proctorio. For more information about Proctorio, from the College of Business that has used it regularly in the past, please go to: [http://www.csuchico.edu/cob/documents/proctorio.pdf](http://www.csuchico.edu/cob/documents/proctorio.pdf)
+
+### Proctorio
+
+* There will be a pre-test/tutorial spot on the campus Blackboard for this course
+* There will be a practice exam on Blackboard before any real exam will occurs
+  * Will revisit if exams will happen on this platform after the practice exam feedback/success. 
+
+
 ## Getting Help/E-mail
 
 As this is a upper division course you'll likely want to make use of my office hours for help as it is unlikely there are tutors or other such resources.
