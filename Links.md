@@ -1,4 +1,6 @@
 * [Google Drive Shared Folder](https://drive.google.com/drive/folders/1446wclpJMzQmn-yh1FQy0xZEFlOEq1mT?usp=sharing) - Shared folder of lecture slides, and other materials.
+* [TopHat Spring 2020](https://app.tophat.com/e/284280/)
+* [Zoom Lecture Schedule](https://docs.google.com/spreadsheets/d/1V3zuLrr8XH1SPrpcJDtiUGY4S166YA69asMFJP0qdiU/edit#gid=1320459163)
 * [GitHub](https://github.com/) - Version Control & Open Source Code Repository
 * [BitBucket](https://bitbucket.org) - Version Control Host for GIT or MERCURIAL (Education Accounts are Free)
 * [Ubuntu](http://ubuntu.com) - Distro of Linux I'll personally be using.
