@@ -58,7 +58,7 @@ Attendance of labs is not required; however, this will be where we will walk thr
 
 ### Class Participation
 
-As the class will be held virtually, attendance will be collected through either the use of the iClickr cloud or similar platform. This may be an attendance check-in at each class and/or as part of participating during lecture through embedded questions regarding the class content. 
+As the class will be held virtually, attendance and participation will be collected through either the use of the Polleverywhere cloud or similar platform. This may be an attendance check-in at each class and/or as part of participating during lecture through embedded questions regarding the class content. It may also involve submitting a Google Form. 
 
 ## Grading
 
@@ -68,12 +68,12 @@ I will post grades to Moodle when an assignment is graded, if you have not regis
 
 ### Grade Category Percentages:
 
-+ Quizzes 20% of course grade 
++ Quizzes 10% of course grade 
     + There will be multiple Moodle quizzes throughout the semester. 
 
-+ Final Project 20 % of course grade
++ Final Project 25 % of course grade
 
-+ Programming Projects 60% of course grade
++ Programming Projects 65% of course grade
 
 + Lecture/Lab Attendance can improve/lower your grade (see above)
 
@@ -83,7 +83,7 @@ We are going to investigate all the projects you turn in to look for code plagia
 
 ## Programming Assignments
 
-There will be at least 6 assignments due at approximately 2 week intervals starting the second week of the semester.
+There will be 6 assignments due at approximately 2 week intervals starting the second week of the semester.
 
 ### Late Assignments:
 
