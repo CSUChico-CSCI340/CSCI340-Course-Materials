@@ -1,4 +1,4 @@
-# CSCI340 Syllabus
+# CSCI440 Syllabus
 
 ## Instructor
 
@@ -17,7 +17,7 @@ In addition to an CSU Chico Lab account, you need an account in the CSCI assignm
 
 Go to [https://turnin.ecst.csuchico.edu](https://turnin.ecst.csuchico.edu "Tyson's Turnin System") and create a new account.
 
-Once you create an account, log on and enroll in CSCI 340, make sure you enroll in the correct section.
+Once you create an account, log on and enroll in CSCI 440, make sure you enroll in the correct section.
 
 **I WILL DROP YOU FROM THE CLASS IF YOU DO NOT CREATE THIS ACCOUNT**
 
@@ -85,16 +85,6 @@ There will be at least 6 assignments due at approximately 2 week intervals start
 Assignments turned in 1-24 hours after the due date will lose 15%
 Assignments will NOT be accepted more that 24 hours after the due date.
 
-## COVID-19 Exam Proctoring Spring 2020
-
-To maintain academic integrity of online exams, this course will use online proctoring software called Proctorio. For more information about Proctorio, from the College of Business that has used it regularly in the past, please go to: [http://www.csuchico.edu/cob/documents/proctorio.pdf](http://www.csuchico.edu/cob/documents/proctorio.pdf)
-
-### Proctorio
-
-* There will be a pre-test/tutorial spot on the campus Blackboard for this course
-* There will be a practice exam on Blackboard before any real exam will occurs
-  * Will revisit if exams will happen on this platform after the practice exam feedback/success. 
-
 
 ## Getting Help/E-mail
 
@@ -102,7 +92,7 @@ As this is a upper division course you'll likely want to make use of my office h
 
 We will be using Piazza for a class discussion board. You should automatically be enrolled when you enrolled in this course on Moodle. You should post any general questions here first as this will allow more students to benefit from the answer vs me potentially answering the same questions numerous times.
 
-Additionally, you can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI340'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
+Additionally, you can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI440'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
 
 I'll be making it a habit to respond immediately to emails received between 9am-5pm, except when I'll otherwise be in a meeting, lecture, etc. Any emails outside of those times will be answered as I can or potentially the next morning at 9am, so try to make sure to email me prior to 5pm.
 
