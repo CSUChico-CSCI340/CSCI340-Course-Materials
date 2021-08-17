@@ -64,7 +64,9 @@ I will routinely post the grading spreadsheet (Will be in google drive folder). 
 
 ### Grade Category Percentages:
 
-+ Exams 40% of course grade (1 midterm and a final)
++ Exams 20% of course grade (1 midterm in person)
+
++ Final Project 20% of course grade
 
 + Programming Projects 60% of course grade
 
@@ -175,3 +177,13 @@ I am firmly committed to diversity and equality in all areas of campus life, inc
 **The Hungry Wildcat Food Pantry** provides supplemental food, fresh produce, CalFresh application assistance and basic needs referral services for students experiencing food and housing insecurity.
 
 All students are welcomed to visit the Pantry located in the **Student Service Center 196**, open **Monday-Friday, 11am-4pm** or call **530-898-4098**. Please visit the Chico State Basic Needs website [http://www.csuchico.edu/basic-needs](http://www.csuchico.edu/basic-needs) for more information
+
+## COVID-19 safety reminder
+
+The CSU requires students to be fully vaccinated against COVID-19 by September 30, 2021, unless you have an approved exemption.  Currently, Chico State is requiring everyone on campus to wear an approved face covering in all indoor campus spaces. Accordingly, all students are required to wear an appropriate face mask covering the nose and mouth in order to participate in this course.   Policies and requirements regarding COVID-19 are subject to change pursuant to campus, local, state and/or federal guidelines.
+
+Please note that dishonesty relating to the vaccination policy and/or your failure to comply with any other COVID-19 related safety policy or mandate, including the face covering requirement, may result in disciplinary action against you through the office of Student Conduct, Rights and Responsibilities, which can include suspension or expulsion from the California State University system. 
+
+Individuals unable to wear a face covering due to a medical condition should contact the Accessibility Resource Center by phone at (530) 898-5959 or by email at arcdept@csuchico.edu. If an ARC accomadation is not recieved I will assume you are failing to comply with the with the campus requirements and report you to the office of Student Conduct, Rights and Responsibilities mentioned above. 
+
+
