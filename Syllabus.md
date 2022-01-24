@@ -64,7 +64,9 @@ I will routinely post the grading spreadsheet (Will be in google drive folder). 
 
 ### Grade Category Percentages:
 
-+ Exams 20% of course grade (1 midterm in person)
++ Exams 18% of course grade (1 midterm in person)
+
++ Moodle Quizzes 2% of course grade
 
 + Final Project 20% of course grade
 
