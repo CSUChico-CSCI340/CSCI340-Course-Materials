@@ -188,4 +188,8 @@ Please note that dishonesty relating to the vaccination policy and/or your failu
 
 Individuals unable to wear a face covering due to a medical condition should contact the Accessibility Resource Center by phone at (530) 898-5959 or by email at arcdept@csuchico.edu. If an ARC accomadation is not recieved I will assume you are failing to comply with the with the campus requirements and report you to the office of Student Conduct, Rights and Responsibilities mentioned above. 
 
+## Miscilaneous Information
+
+I am sensitive to the smell of burnt marijuana. If the smell is strong in the classroom I will get a migraine. Please be considerate.
+
 
